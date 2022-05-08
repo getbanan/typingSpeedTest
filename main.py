@@ -81,5 +81,7 @@ def main(stdscr):
         if ord(key) == 27:
             break
 
+            print("hello")
+
 
 wrapper(main)
